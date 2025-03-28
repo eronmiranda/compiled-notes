@@ -1,2 +1,2 @@
 # compiled-notes
-Dev notes collection
+Collection of notes, guides and learnings
