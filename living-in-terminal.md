@@ -1,14 +1,15 @@
-# MacOS Terminal Navigation
+# macOS Terminal Navigation
+
 ## **Enable option key as meta key**
 
 1. Go to `Terminal` > `Preferences` > `Profiles` > `Keyboard` (shortcut: `cmd` + `,` )
 2. Enable `Use option key as meta key`.
-  <img src="images/meta-key.png" width="500">
+  ![Enable meta key option](images/meta-key.png)
 3. Now you can delete word by word using `option` + `delete` (forward delete)
 
 ## Delete, copy, and paste
 
-`Ctrl` + `w`: deletes prev word (as does Meta+delete but whole word, meaning space separated)
+`Ctrl` + `w`: deletes previous word (as does Meta+delete but whole word, meaning space separated)
 
 `Ctrl` + `u`: delete from cursor to start of line
 
