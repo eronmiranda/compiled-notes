@@ -16,6 +16,10 @@ A collection of notes, guides, and learnings to help streamline workflows and im
 - **[Docker Cheat Sheet](docker-cheat-sheet.md)**  
   A quick reference notes for essential Docker commands for managing containers, images, and services.
 
+- **[One-liner Commands](one-liners.md)**
+
+  A collection of one-liner commands commonly used on a homelab environment. For Ubuntu and macOS only.
+
 ---
 
 Built with ☕️ by [@eronmiranda](https://github.com/eronmiranda)
