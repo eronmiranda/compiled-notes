@@ -20,6 +20,9 @@ A collection of notes, guides, and learnings to help streamline workflows and im
 
   A collection of one-liner commands commonly used on a homelab environment. For Ubuntu and macOS only.
 
+- **[Enable Code Command on Terminal](enable-code-on-terminal.md)**
+  A quick guide on enabling `code` on terminal. Mostly used for setting up new dev laptop/environment.
+
 ---
 
 Built with ☕️ by [@eronmiranda](https://github.com/eronmiranda)
